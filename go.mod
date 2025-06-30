@@ -1,4 +1,4 @@
-module gitlab.com/michaeljohn/iothub
+module github.com/aka-mj/iothub
 
 go 1.20
 
